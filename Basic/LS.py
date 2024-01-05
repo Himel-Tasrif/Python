@@ -1,4 +1,5 @@
-## Linear Search
+## Linear Search by
+## Tasrif Nur Himel
 
 def linear_search(arr,target):
     for i in range(len(arr)):
