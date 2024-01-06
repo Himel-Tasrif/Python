@@ -1,8 +1,11 @@
+## Number of (Word,letter and digit) of a sentance
+## Tasif Nur Himel
+
 word = 0
 letter = 0
 digit = 0
 
-text = input("Enter a text of Numbers: ")
+text = input("Enter a text: ")
 
 for x in text :
 
