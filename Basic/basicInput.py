@@ -1,4 +1,5 @@
 # Basic Input
+#Tasrif Nur Himel
 
 name = input("Enter a name: ")
 age = int(input("Enter age: "))
