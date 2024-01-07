@@ -1,4 +1,5 @@
 # Join Arrays vertically 
+# Tasrif Nur Himel
 
 import numpy as py
 a = py.arange(6).reshape(3,2)
