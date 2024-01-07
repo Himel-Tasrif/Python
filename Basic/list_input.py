@@ -1,4 +1,7 @@
-n = input("Enter a text of numbers: ")
+# List Input
+# Tasrif Nur Himel
+
+n = input("Enter numbers using space: ")
 
 list = n.split()
 sum = 0
