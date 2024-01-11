@@ -11,6 +11,8 @@ print(f"Sum of 1 to {n} is: {sum}")
 '''
 Homework:
 2+4+6+8+.......+n 
+1+3+5+7+.........+n
+
 
 note one thing series depends on 3 things:
 1. range start with
