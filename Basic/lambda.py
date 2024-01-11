@@ -1,4 +1,6 @@
 # Lambda Function(work at single line of code)
+# Tasrif Nur Himel
+
 
 # (a+b)^2 = a*a + 2*a*b + b*b
 
