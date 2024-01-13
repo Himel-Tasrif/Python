@@ -1,3 +1,7 @@
+# Method
+# Tasrif Nur Himel
+
+
 class himel:
     name = ""
     age = ""
