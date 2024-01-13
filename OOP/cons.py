@@ -20,3 +20,24 @@ class student:
 himel = student("Tasrif Nur Himel", 20, "221-35-1078")
 
 himel.display()
+
+#example:(try it must)
+'''
+class triangle:
+    base = ''
+    height = ''
+
+    def __init__(self,base,height) -> None:
+        self.base = base
+        self.height = height
+
+    def area(self):
+        area = 0.5 * self.base * self.height
+
+        print(f"Area of Triangle is: {area}")
+
+
+t1 = triangle(10,20)
+t1.area()
+t2 = triangle(20,30)
+t2.area() '''
